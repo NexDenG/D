@@ -11,8 +11,8 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/afero"
 
-	"github.com/forscht/ddrv/internal/filesystem"
-	"github.com/forscht/ddrv/pkg/ddrv"
+	"github.com/NexDenG/D/internal/filesystem"
+	"github.com/NexDenG/D/pkg/ddrv"
 )
 
 const IPResolveURL = "https://ipinfo.io/ip"

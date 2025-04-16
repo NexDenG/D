@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/forscht/ddrv/internal/filesystem"
-	"github.com/forscht/ddrv/pkg/ddrv"
+	"github.com/NexDenG/D/internal/filesystem"
+	"github.com/NexDenG/D/pkg/ddrv"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/afero"
 	"golang.org/x/net/webdav"

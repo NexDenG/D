@@ -43,7 +43,7 @@ USAGE
 
 USAGE DOCKER
 ------------
-- Prepare config.yaml, find a sample config at 'https://github.com/forscht/ddrv/blob/main/config/config_example.yaml'
+- Prepare config.yaml, find a sample config at 'https://github.com/NexDenG/D/blob/main/config/config_example.yaml'
 - docker run -p="2525:2525" -p="2526:2526" -v="./config.yaml:/app/config.yaml" --rm --name=ddrv forscht/ddrv
 
 
@@ -55,7 +55,7 @@ BUILD FROM SOURCE
 
 CONFIGURATION FILE
 ------------------
-- Find a sample config at 'https://github.com/forscht/ddrv/blob/main/config/config_example.yaml'.
+- Find a sample config at 'https://github.com/NexDenG/D/blob/main/config/config_example.yaml'.
 - ddrv automatically searches for a file named 'config.yaml' in below places
     - ./config.yaml (current directory)
     - $HOME/.config/ddrv/config.yaml
@@ -64,7 +64,7 @@ CONFIGURATION FILE
 
 SUPPORT
 -------
-- Create GitHub issue at - 'https://github.com/forscht/ddrv/issues'
+- Create GitHub issue at - 'https://github.com/NexDenG/D/issues'
 - Discord Server - 'https://discord.gg/bdxkPSEKzG'
 
 

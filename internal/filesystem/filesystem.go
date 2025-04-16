@@ -8,8 +8,8 @@ import (
 
 	"github.com/spf13/afero"
 
-	dp "github.com/forscht/ddrv/internal/dataprovider"
-	"github.com/forscht/ddrv/pkg/ddrv"
+	dp "github.com/NexDenG/D/internal/dataprovider"
+	"github.com/NexDenG/D/pkg/ddrv"
 )
 
 var (

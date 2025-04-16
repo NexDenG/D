@@ -8,9 +8,9 @@ import (
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/rs/zerolog/log"
 
-	"github.com/forscht/ddrv/internal/http/api"
-	"github.com/forscht/ddrv/internal/http/web"
-	"github.com/forscht/ddrv/pkg/ddrv"
+	"github.com/NexDenG/D/internal/http/api"
+	"github.com/NexDenG/D/internal/http/web"
+	"github.com/NexDenG/D/pkg/ddrv"
 )
 
 type Config struct {

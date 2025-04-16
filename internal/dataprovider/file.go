@@ -3,7 +3,7 @@ package dataprovider
 import (
 	"time"
 
-	"github.com/forscht/ddrv/pkg/ns"
+	"github.com/NexDenG/D/pkg/ns"
 )
 
 type File struct {

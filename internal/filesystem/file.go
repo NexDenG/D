@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"time"
 
-	dp "github.com/forscht/ddrv/internal/dataprovider"
-	"github.com/forscht/ddrv/pkg/ddrv"
+	dp "github.com/NexDenG/D/internal/dataprovider"
+	"github.com/NexDenG/D/pkg/ddrv"
 )
 
 type File struct {

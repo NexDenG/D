@@ -11,10 +11,10 @@ import (
 	"github.com/lib/pq"
 	"github.com/rs/zerolog/log"
 
-	dp "github.com/forscht/ddrv/internal/dataprovider"
-	"github.com/forscht/ddrv/pkg/ddrv"
-	"github.com/forscht/ddrv/pkg/locker"
-	"github.com/forscht/ddrv/pkg/ns"
+	dp "github.com/NexDenG/D/internal/dataprovider"
+	"github.com/NexDenG/D/pkg/ddrv"
+	"github.com/NexDenG/D/pkg/locker"
+	"github.com/NexDenG/D/pkg/ns"
 )
 
 const RootDirId = "11111111-1111-1111-1111-111111111111"

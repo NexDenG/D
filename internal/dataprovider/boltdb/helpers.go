@@ -9,9 +9,9 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	dp "github.com/forscht/ddrv/internal/dataprovider"
-	"github.com/forscht/ddrv/pkg/ddrv"
-	"github.com/forscht/ddrv/pkg/ns"
+	dp "github.com/NexDenG/D/internal/dataprovider"
+	"github.com/NexDenG/D/pkg/ddrv"
+	"github.com/NexDenG/D/pkg/ns"
 )
 
 func serializeNode(node ddrv.Node) []byte {

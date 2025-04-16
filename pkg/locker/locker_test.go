@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/forscht/ddrv/pkg/locker"
+	"github.com/NexDenG/D/pkg/locker"
 )
 
 func TestLocker(t *testing.T) {

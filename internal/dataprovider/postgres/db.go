@@ -6,7 +6,7 @@ import (
 	_ "github.com/lib/pq" // Import the PostgreSQL driver
 	"github.com/rs/zerolog/log"
 
-	"github.com/forscht/ddrv/pkg/migrate"
+	"github.com/NexDenG/D/pkg/migrate"
 )
 
 // Driver - fot now we only support postgres

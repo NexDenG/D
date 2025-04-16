@@ -1,6 +1,6 @@
 package postgres
 
-import "github.com/forscht/ddrv/pkg/migrate"
+import "github.com/NexDenG/D/pkg/migrate"
 
 var migrations = []migrate.Migration{
 	{

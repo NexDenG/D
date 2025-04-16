@@ -3,9 +3,9 @@ package api
 import (
 	"github.com/gofiber/fiber/v2"
 
-	"github.com/forscht/ddrv/internal/dataprovider"
-	"github.com/forscht/ddrv/pkg/ddrv"
-	"github.com/forscht/ddrv/pkg/validator"
+	"github.com/NexDenG/D/internal/dataprovider"
+	"github.com/NexDenG/D/pkg/ddrv"
+	"github.com/NexDenG/D/pkg/validator"
 )
 
 var validate = validator.New()

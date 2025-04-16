@@ -7,7 +7,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/forscht/ddrv/pkg/breader"
+	"github.com/NexDenG/D/pkg/breader"
 )
 
 // NWriter buffers bytes into memory and writes data to discord in parallel at the cost of high-memory usage.

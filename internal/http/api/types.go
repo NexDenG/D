@@ -3,7 +3,7 @@ package api
 import (
 	"github.com/gofiber/fiber/v2"
 
-	dp "github.com/forscht/ddrv/internal/dataprovider"
+	dp "github.com/NexDenG/D/internal/dataprovider"
 )
 
 const (

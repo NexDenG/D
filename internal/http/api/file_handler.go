@@ -9,11 +9,11 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 
-	dp "github.com/forscht/ddrv/internal/dataprovider"
-	"github.com/forscht/ddrv/pkg/ddrv"
-	"github.com/forscht/ddrv/pkg/httprange"
-	"github.com/forscht/ddrv/pkg/lreader"
-	"github.com/forscht/ddrv/pkg/ns"
+	dp "github.com/NexDenG/D/internal/dataprovider"
+	"github.com/NexDenG/D/pkg/ddrv"
+	"github.com/NexDenG/D/pkg/httprange"
+	"github.com/NexDenG/D/pkg/lreader"
+	"github.com/NexDenG/D/pkg/ns"
 )
 
 func GetFileHandler() fiber.Handler {
